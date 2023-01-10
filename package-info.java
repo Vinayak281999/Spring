@@ -1,1 +1,1 @@
-sssssssssssssssszxpackage com.xworkz.springs.boot;
+package com.xworkz.springs.configuration;
