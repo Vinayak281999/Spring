@@ -1,1 +1,1 @@
-package com.xworkz.springs.configuration;
+package com.xworkz.autowired.bean;
