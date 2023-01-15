@@ -46,18 +46,18 @@ public String name() {
 	@Bean
 	public String name2() {
 		System.out.println("-------------------------------");
-		return "vinay";
+		return "Black mamba";
 
 	}
 	@Bean
-	public String type1() {
+	public String type2() {
 		System.out.println("=========================");
-		return "vinoda";
+		return "venomous";
 	}
 	@Bean
 	public String poisionous() {
 		System.out.println("------------------------");
-		return "ghjhg";
+		return "true";
 	}
 	
 	
